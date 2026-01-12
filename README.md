@@ -58,4 +58,4 @@ turtle.done ()
 4. 36 iterations complete the full circular art 🎨
 
 ### Screenshots 📸
-[![Turtle Graphics](https://github.com/owaiskazmi/Turtle-Graphics/blob/main/Screenshots/graph.png)](https://github.com/owaiskazmi/Turtle-Graphics/blob/main/Screenshots/graph.png)
+[![Turtle Graphics](https://github.com/owaiskazmi/Turtle-Graphics/blob/main/Screenshots/turtle.png)](https://github.com/owaiskazmi/Turtle-Graphics/blob/main/Screenshots/turtle.png)
